@@ -1,5 +1,5 @@
 print("Hello, GitHub!")
-print("MSc Photonics Student")
+print("I am faiz")
 print("Learning Python")
 print("Learning Git")
 print("Learning GitHub")
