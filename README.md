@@ -12,7 +12,7 @@ This project was created while learning:
 
 ## Author
 
-Faiz
+Faiz bader k m
 
 ## Program
 
