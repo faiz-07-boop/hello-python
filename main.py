@@ -1,5 +1,7 @@
-print("Hello, GitHub!")
-print("I am faiz")
-print("Learning Python")
-print("Learning Git")
-print("Learning GitHub")
+import numpy as np
+
+numbers = np.array([10, 20, 30, 40, 50])
+
+print("Numbers:", numbers)
+print("Average:", np.mean(numbers))
+print("Maximum:", np.max(numbers))
